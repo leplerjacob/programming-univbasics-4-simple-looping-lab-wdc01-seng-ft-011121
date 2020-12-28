@@ -31,9 +31,14 @@ end
 # Method takes one array, loops and converts and returns the elements of the given array as a new array of strings
 def return_string_array(array)
   counter = 0
-  new_array = Array.new(5)
+  new_array = Array.new(array.length)
   while counter < array.length do
-    
+    new_array[counter] = array[counter]
+    counter += 1
+  end
+end
+
+
   
   
   
