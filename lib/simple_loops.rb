@@ -29,4 +29,22 @@ def output_array(array)
 end
 
 # Method takes one array, loops and converts and returns the elements of the given array as a new array of strings
-def return_string_arra()
+def return_string_array()
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
