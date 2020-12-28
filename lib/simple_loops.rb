@@ -11,6 +11,13 @@ def loop_message_five_times(string)
 end
 
 # Method takes two arguments: string, integer, and prints the string integer number of times
+def loop_message_n_times(string, integer)
+  counter = 0
+  while counter <= integer do
+    puts string
+    counter += 1
+  end
+end
 
 # Method takes one array argument and loops and prints the elements of the given array
 def output_array(array)
