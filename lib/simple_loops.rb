@@ -21,4 +21,9 @@ end
 
 # Method takes one array argument and loops and prints the elements of the given array
 def output_array(array)
-
+  counter = 0
+  while counter < array.length do
+    puts array[counter]
+    counter += 1
+  end
+end
