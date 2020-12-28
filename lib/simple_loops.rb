@@ -27,3 +27,5 @@ def output_array(array)
     counter += 1
   end
 end
+
+# Method takes one array, loops and converts and returns the elements of the given array as a new array of strings
