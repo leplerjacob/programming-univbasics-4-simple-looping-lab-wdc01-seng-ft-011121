@@ -10,4 +10,8 @@ def loop_message_five_times(string)
   end
 end
 
+# Method takes two arguments: string, integer, and prints the string integer number of times
+
 # Method takes one array argument and loops and prints the elements of the given array
+def output_array(array)
+  
