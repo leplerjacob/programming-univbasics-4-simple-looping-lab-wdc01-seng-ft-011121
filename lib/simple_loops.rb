@@ -20,5 +20,5 @@ def loop_message_n_times(string, integer)
 end
 
 # Method takes one array argument and loops and prints the elements of the given array
-def output_array(array)
+# def output_array(array)
   
